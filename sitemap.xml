@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://audepe.cloud/about/</loc>
+    <loc>https://audepe.cloud/about/</loc>
     <lastmod>2023-08-13T18:21:06+01:00</lastmod>
   </url><url>
-    <loc>http://audepe.cloud/</loc>
+    <loc>https://audepe.cloud/</loc>
     <lastmod>2023-08-13T10:02:34+01:00</lastmod>
   </url><url>
-    <loc>http://audepe.cloud/posts/my-first-post/</loc>
+    <loc>https://audepe.cloud/posts/my-first-post/</loc>
     <lastmod>2023-08-13T10:02:34+01:00</lastmod>
   </url><url>
-    <loc>http://audepe.cloud/posts/</loc>
+    <loc>https://audepe.cloud/posts/</loc>
     <lastmod>2023-08-13T10:02:34+01:00</lastmod>
   </url><url>
-    <loc>http://audepe.cloud/categories/</loc>
+    <loc>https://audepe.cloud/categories/</loc>
   </url><url>
-    <loc>http://audepe.cloud/tags/</loc>
+    <loc>https://audepe.cloud/tags/</loc>
   </url>
 </urlset>
