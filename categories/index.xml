@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Audepe&#39;s Blog</title>
-    <link>http://blog.audepe.cloud/categories/</link>
+    <link>http://audepe.cloud/categories/</link>
     <description>Recent content in Categories on Audepe&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://blog.audepe.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://audepe.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
